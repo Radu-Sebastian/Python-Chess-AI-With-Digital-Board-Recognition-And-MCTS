@@ -1,0 +1,7 @@
+[Event "Simple Chess"]
+[Site "Chess App"]
+[Date "21/06/2022"]
+[Round "?"]
+[White "ChessUser"]
+[Black "ChessEngine"]
+1. e4 Nc6 2. Nf3 e6 3. Bb5 a6 4. Bxc6 dxc6 5. 0-0 f5 6. d3 fxe4 7. dxe4 Qxd1 8. Rxd1 Nf6 9. Nc3 Bb4 10. Rd4 c5 11. Rc4 Bd7 12. Bf4 Rc8 13. Ne5 Bxc3 14. bxc3 Nh5 15. Be3 Bb5 16. Rxc5 b6 17. Rxb5 axb5 18. Rb1 Nf6 19. f3 Nd7 20. Nxd7 Kxd7 21. Rxb5 Ra8 22. Rb2 Ra4 23. Kf2 e5 24. Ke2 Kc8 25. Kd3 Ra3 26. Rb5 Ra5 27. Rb3 Rxa2 28. Rb5 Rd8+ 29. Kc4 Rxc2 30. Rxe5 Rxg2 31. Re7 Rf8 32. Bd4 Rxf3 33. Rxg7 Rxg7 34. Bxg7 Rf2 35. Be5 Rg2 36. Kd5 c5 37. Kc6 Rb2 38. h4 c4 39. Kd5 b5 40. Kc5 Re2 41. Kd5 Kb7 42. h5 Rf2 43. h6 Rd2+ 44. Kc5 Rb2 45. Bd6 Re2 46. e5 Rb2 47. e6 Rg2 48. e7 Re2 49. Kxb5 Ka8 50. Kxc4 Re1 51. Kc5 Rxe7 52. Bxe7 Kb7 53. c4 Ka8 54. Kc6 Ka7 55. Kc7 Ka6 56. c5 Ka7 57. Kd8 Kb7 58. Kd7 Ka8 59. c6 Kb8 60. c7+ Kb7 61. c8=Q+ Kb6 62. Qg8 Kb7 63. Qxh7 Ka8 64. Qb1 Ka7 65. h7 Ka8 66. h8=Q+ Ka7 67. Qhb8+ Ka6 68. Qa1# 1-0

@@ -1,0 +1,7 @@
+[Event "Simple Chess"]
+[Site "Chess App"]
+[Date "24/06/2022"]
+[Round "?"]
+[White "ChessEngine"]
+[Black "ChessEngine"]
+1. e4 Nf6 2. Qf3 e5 3. Bc4 Nc6 4. Nbc3 Bd6 5. Nb5 0-0 6. Nxd6 cxd6 7. Ne2 d5 8. exd5 e4 9. Qa3 b5 10. dxc6 bxc4 11. cxd7 Qxd7 12. Qc5 c3 13. dxc3 Rb8 14. 0-0 Rb5 15. Qc4 Bb7 16. Qa4 Bd5 17. a3 Rfc8 18. Be3 Rc4 19. b4 a5 20. Nd4 Rxd4 21. cxd4 axb4 22. axb4 Qc6 23. Rad1 Qc4 24. Qa6 Bb7 25. Qa7 Bc6 26. Qa6 Bb7 27. Qa7 Bc6 28. Qa6 Bd5 29. Rd2 Bb7 30. Qa7 Bd5 31. Qa6 Bb7 32. Qa7 Bc6 33. Qa6 Qe6 34. d5 Nxd5 35. c4 Nxe3 36. Rd8+ Be8 37. cxb5 Nxf1 38. Qxe6 fxe6 39. Rxe8+ Kf7 40. Rh8 e3 41. Kxf1 exf2 42. Rxh7 Kg6 43. Rh8 Kf7 44. Kxf2 Ke7 45. b6 Kd7 46. b7 e5 47. Kg1 Ke7 48. b8=Q Kf6 49. Qd6+ Kf5 50. Rh5+ Kg4 51. Qxe5 g6 52. h3# 1-0

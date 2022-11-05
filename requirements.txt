@@ -1,0 +1,7 @@
+chess==1.9.2
+pygame==2.1.2
+numpy==1.23.0
+pyparsing==3.0.9
+parsita==1.7.0
+opencv-python==4.6.0.66
+future==0.18.2

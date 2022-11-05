@@ -1,0 +1,7 @@
+[Event "Simple Chess"]
+[Site "Chess App"]
+[Date "24/06/2022"]
+[Round "?"]
+[White "ChessEngine"]
+[Black "ChessEngine"]
+1. Nf3 c5 2. c4 g6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc2 Bg7 6. e4 d6 7. Be2 Nh6 8. 0-0 Ng8 9. Nd2 Nf6 10. Ne3 e5 11. Bf3 0-0 12. Qc2 Be6 13. a3 Qc8 14. Ra2 Qc7 15. Rd1 Nd4 16. Qd3 Nxf3+ 17. Nxf3 d5 18. exd5 Bd7 19. d6 Qc5 20. Nc2 Bc6 21. Nd2 g5 22. d7 Rad8 23. Rf1 h6 24. Qc3 Rxd7 25. Nb3 Qb6 26. Nba1 Ne4 27. Qf3 Nxf2 28. Qf5 Ne4+ 29. Kh1 Rdd8 30. b3 Nd6 31. Qd3 Bxg2+ 32. Kxg2 Qc6+ 33. Kg1 Qc5+ 34. Kh1 Qc6+ 35. Kg1 Qb6+ 36. c5 Qxc5+ 37. Kh1 Qc6+ 38. Kg1 Qb6+ 39. Kh1 Qc6+ 40. Kg1 Qc5+ 41. Kh1 g4 42. Bxh6 Bxh6 43. Ne1 Qc6+ 44. Kg1 Qc5+ 45. Kh1 Qc6+ 46. Kg1 Qb6+ 47. Kh1 Bg7 48. Nc2 Qc6+ 49. Nf3 gxf3 50. Ne3 f2+ 51. Ng2 Bf6 52. Qg3+ Kh7 53. Qd3+ Kg8 54. Qg3+ Kh8 55. Qh3+ Kg8 56. Qg4+ Kh8 57. Qh5+ Kg8 58. Qg4+ Kh8 59. Qh5+ Kg8 60. Raxf2 Bg7 61. Kg1 f5 62. Ne3 Ne4 63. Rb2 Bf6 64. Qxf5 b6 65. Rg2+ Ng5 66. Qg6+ Kh8 67. Rg3 Nh3+ 68. Rxh3+ Bh4 69. Rxh4# 1-0
